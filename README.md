@@ -26,7 +26,7 @@ We have included, compiled and tested all 3rd party libraries on MATLAB R2014a, 
 II. DATASET
 =================
 
-Download dataset.zip [https://drive.google.com/file/d/1IfDgF-LPnk07TNTF1iqVPYUKzlSsmjdZ/view?usp=sharing](here), extract and place it in the directory of source code
+Download dataset.zip [here](https://drive.google.com/file/d/1IfDgF-LPnk07TNTF1iqVPYUKzlSsmjdZ/view?usp=sharing), extract and place it in the directory of source code
 
 The folder './dataset' contains the mat files used for this demo code
 		+ cifar-10/cifar_gist_320.mat: This is GIST 320-D representation of CIFAR-10, it contains:
