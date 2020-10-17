@@ -26,6 +26,8 @@ We have included, compiled and tested all 3rd party libraries on MATLAB R2014a, 
 II. DATASET
 =================
 
+Download dataset.zip [https://drive.google.com/file/d/1IfDgF-LPnk07TNTF1iqVPYUKzlSsmjdZ/view?usp=sharing](here), extract and place it in the directory of source code
+
 The folder './dataset' contains the mat files used for this demo code
 		+ cifar-10/cifar_gist_320.mat: This is GIST 320-D representation of CIFAR-10, it contains:
 				- Xtest (10000x320): 10K query images
@@ -45,7 +47,7 @@ The folder './dataset' contains the mat files used for this demo code
 III. USAGE
 =================
 
-Download dataset.zip [https://drive.google.com/file/d/1IfDgF-LPnk07TNTF1iqVPYUKzlSsmjdZ/view?usp=sharing](here), extract and place it in the directory of source code
+
 
 Run 'demo.m', it will visualize a comparison between our method with ITQ in mAP
 Please test with MNIST dataset first. If the code works properly, you will get Fig 2(b) (with 2 curves: our UH-BDNN and ITQ) as our ECCV16 paper
